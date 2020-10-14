@@ -22,8 +22,8 @@ require (
 	github.com/jmoiron/sqlx v1.2.1-0.20190826204134-d7d95172beb5
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.7.0
-	github.com/jbkingsley/mproxy v0.2.2
-	github.com/mainflux/senml v1.5.0
+	github.com/jbkingsley/mproxy master
+	github.com/mainflux/senml v1.0.2
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/nats-io/nats.go v1.10.0
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
